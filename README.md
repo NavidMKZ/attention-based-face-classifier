@@ -1,6 +1,6 @@
 # Face Recognition with CBAM and ArcFace
 
-This project implements a deep learning model for face recognition using Convolutional Neural Networks (CNN), CBAM (Convolutional Block Attention Module), and ArcFace for face classification. The model achieves 100% accuracy on the given dataset for classifying faces.
+This project implements a deep learning model for face classification using Convolutional Neural Networks (CNN), CBAM (Convolutional Block Attention Module), and ArcFace for face classification. The model achieves 100% accuracy on the given dataset for classifying faces.
 
 ## Dataset
 
