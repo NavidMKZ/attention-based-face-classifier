@@ -15,9 +15,6 @@ The dataset used in this project is the **Face Identification Dataset**. It cont
 
 ---
 
-### Model Components
-
-```markdown
 ## Model Components
 
 ### 1. Convolutional Neural Network (CNN)
