@@ -41,7 +41,9 @@ The ArcFace function is used to compute the angular margin between class feature
 - KaggleHub
 - NumPy
 - Matplotlib (for visualization)
-- Other required libraries (listed in `requirements.txt`)
+- Sklearn
+- Opencv
+- PIL
 
 
 
