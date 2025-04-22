@@ -28,7 +28,7 @@ The CBAM module is used to refine feature maps through channel and spatial atten
   - **Paper**: ["CBAM: Convolutional Block Attention Module"](https://arxiv.org/abs/1807.06521)
 
 ### 3. ArcFace
-The ArcFace loss function is used to compute the angular margin between class features, providing more discriminative feature representations for face recognition. The implementation of ArcFace is adapted from a Kaggle notebook by **parthdhameliya77**.
+The ArcFace function is used to compute the angular margin between class features, providing more discriminative feature representations for face recognition. The implementation of ArcFace is adapted from a Kaggle notebook by **parthdhameliya77**.
 
 - **ArcFace Implementation**: The implementation is taken from a Kaggle notebook by **parthdhameliya77**.
   - **Link**: [ArcFace Kaggle Notebook](https://www.kaggle.com/code/parthdhameliya77/simple-arcface-implementation-on-mnist-dataset)
