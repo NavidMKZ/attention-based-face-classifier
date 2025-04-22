@@ -3,6 +3,7 @@
 This project implements a deep learning model for face classification using Convolutional Neural Networks (CNN), CBAM (Convolutional Block Attention Module), and ArcFace for face classification. The model achieves 100% accuracy on the given dataset for classifying faces.
 
 
+
 ## Dataset
 
 The dataset used in this project is the **Face Identification Dataset**. It contains images of 487 different individuals and is sourced from Kaggle.
